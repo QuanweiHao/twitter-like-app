@@ -5,4 +5,5 @@ Our app has many functions like a simple twitter, users can register, post what 
 ## How to run our APP
 1. Our App has many dependance libraries, which are big cannot upload on the github. However, lots of IDE can 'npm install' those dependances, so following IDE instruction to install.
 2. In the terminal, 'cd into our app directory, and type 'npm run watch'.
-3. Open browser, visit 'localhost:3000'
+3. Open browser, visit 'localhost:3000'.
+4. I have git pushed our app on heroku, you can directly visit https://social-media-app-cs5200.herokuapp.com/ on your browser to use our app.
