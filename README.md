@@ -5,3 +5,4 @@ Our app has many functions like a simple twitter, users can register, post what 
 [See this app live!](https://social-media-app-cs5200.herokuapp.com/)
 
 ![alt text](screen shots/home-chat.png "Our App")
+![alt text](screenshots/robot-friends.png "My Robot Friends")
